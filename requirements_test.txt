@@ -1,0 +1,10 @@
+# Requirements for testing
+
+-rrequirements.txt
+backports.tempfile;python_version<"3.4"
+flake8
+mypy
+pydocstyle
+pylint
+pytest
+virtualenv;python_version<"3.0"

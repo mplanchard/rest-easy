@@ -1,0 +1,7 @@
+# Specification of non-versioned requirements, unless version pins
+# are required. This file is parsed by setup.py
+
+flasgger
+flask
+marshmallow
+six

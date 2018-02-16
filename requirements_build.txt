@@ -1,0 +1,6 @@
+# Requirements for building rest-easy
+
+click
+setuptools
+twine
+wheel
